@@ -1,7 +1,7 @@
 # YS Flight Simulator
 
 by CaptainYS
-http://www.ysflight.com
+https://www.ysflight.org
 
 ## Introduction
 Thank you for downloading and flying YS Flight Simulator!
